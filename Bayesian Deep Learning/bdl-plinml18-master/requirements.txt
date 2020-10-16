@@ -1,0 +1,12 @@
+numpy
+keras
+scikit-learn
+matplotlib
+cached-property
+scipy
+seaborn
+pymc3
+jupyter
+tensorflow
+pillow
+
